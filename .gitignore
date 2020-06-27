@@ -1,5 +1,6 @@
 .DS_Store
 notebook2/
+model2/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
