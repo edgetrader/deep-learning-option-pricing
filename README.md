@@ -1,5 +1,4 @@
 # Option Pricing using Deep Learning Model
-Option Pricing using Deep Learning Model
 
 ## Summary
 This analysis attempts to value financial options by means of Artifical Neural Networks. Using Tensorflow and Keras libraries to train a deep learning regression model on the following features:
