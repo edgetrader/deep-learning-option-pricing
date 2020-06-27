@@ -1,7 +1,7 @@
 # Option Pricing using Deep Learning Model
 
 ## Summary
-This analysis attempts to value financial options by means of Artifical Neural Networks. Using Tensorflow and Keras libraries to train a deep learning regression model on the following features:
+This analysis attempts to value financial options by means of Artificial Neural Networks. Using Tensorflow and Keras libraries to train a deep learning regression model on the following features:
 - Strike Price of an option
 - Current Price of the underlying stock
 - Time to expiration
